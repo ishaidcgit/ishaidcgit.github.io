@@ -8,11 +8,16 @@ redirect_from:
 ---
 
 
- Mailing address:
+Mailing address:
+
 Department of Mathematics
+
 Ben-Gurion University of the Negev
+
 P.O. Box 653
+
 Be'er Sheva 8410501
+
 Israel
 
 Physical address: Building 58b (Deichman), Office 214
